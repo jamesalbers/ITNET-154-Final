@@ -1,7 +1,7 @@
 #PowewerShell - Final Exam
-#Student Name:
-#Course #:
-#Date:
+#Student Name: James Albers
+#Course #: ITENT-154-800
+#Date: October 27, 2021
 ##########################################################
 
 #Question #1
